@@ -22,14 +22,14 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>  </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&hide_progress=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andradecamila-dev" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andradecamila-dev&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
