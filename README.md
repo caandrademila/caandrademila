@@ -6,3 +6,5 @@
     media="(prefers-color-scheme: cobalt), (prefers-color-scheme: no-preference)"
   />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&hide_progress=truecompact)
