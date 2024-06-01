@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/caandrademila/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5535999178457?text=Ol%C3%A1,)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilarandrade/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](andradecamilareis@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andradecamilareis@gmail.com)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>  </p>
