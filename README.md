@@ -18,6 +18,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andradecamilareis@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradecamila-dev&show_icons=true&theme=monokai&hide_langs_below=1)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradecamila-dev&show_icons=true&theme=monokai&hide_langs_below=1)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1)
