@@ -39,6 +39,6 @@ Javascript, HTML, CSS...
 ## 🔗 Contatos
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-5535999178457?logo=whatsapp&logoColor=white)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilarandrade/)
-[![gmail]([![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#))](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilarandrade/)
+[![gmail]([![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](andradecamilareis@gmail.com)
 
