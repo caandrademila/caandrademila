@@ -7,6 +7,5 @@
   />
 </picture>
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andradecamila-dev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=andradecamila-dev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
