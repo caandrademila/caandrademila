@@ -1,6 +1,4 @@
-<h4 align="center">    
- :construction:  Olá, Dev's! 👋  :construction:
-</h4>
+<h4 align="center">      Olá, Dev's! 👋  </h4>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>  
 
