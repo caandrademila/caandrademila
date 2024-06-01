@@ -23,10 +23,6 @@
   />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=monokai)
-
-
-
 ## Licença
 
 [MIT]([https://choosealicense.com/licenses/mit/](https://img.shields.io/badge/License-MIT-blue.svg))
