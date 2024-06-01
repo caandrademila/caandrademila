@@ -23,6 +23,5 @@
 <p align=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1/>  </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&layout=compact&theme=monokai&hide_langs_below=1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andradecamila-dev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradecamila-dev&show_icons=true&theme=transparent&theme=monokai&hide_langs_below=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradecamila-dev&show_icons=true&theme=monokai&hide_langs_below=1)
 
