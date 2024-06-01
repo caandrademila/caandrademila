@@ -23,13 +23,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>  </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&layout=compact&theme=monokai&hide_langs_below=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&hide_progress=true&theme=monokai&hide_langs_below=1)
-
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&theme=monokai&hide_langs_below=1)
 
