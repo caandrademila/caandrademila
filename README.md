@@ -1,3 +1,8 @@
+<h1 align="center"> Olá,dev's </h1>
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradecamila-dev&theme=monokai&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>  
 
 <picture>
