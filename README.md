@@ -3,7 +3,7 @@
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=cobalt&style=for-the-badge"/></p>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 <h4 align="center">Ferramentas</h4>
